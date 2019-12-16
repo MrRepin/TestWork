@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-test-work",
+  "version": "1.0.0",
+  "description": "My world-class Nuxt.js project",
+  "author": "Dmitry",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "v-mask": "^2.0.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
